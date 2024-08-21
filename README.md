@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vitor Bruzinga 🙂
 
-- 🖥 Hoje trabalho com tecnologia, na area de Infraestrutura
+- 🖥 Hoje trabalho com tecnologia, na area de Projetos e Infraestrutura
 - ☕ Estudando Java, Javascript, C#, SQL & WEB em geral
 - 🚀 Buscando evoluir cada vez mais e oportunidades no mercado de desenvolvimento!
 - 😄 Pronouns: ele/dele
